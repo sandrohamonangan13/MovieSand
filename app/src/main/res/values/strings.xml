@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">SandMovie</string>
+    <string name="home">Home</string>
+    <string name="maps">Daftar Aktor</string>
+    <string name="article">Movie List</string>
+    <string name="logout">Logout</string>
+    <string name="dialog">Want to logout from Sand Movie?</string>
+    <string name="tidak">Tidak</string>
+    <string name="keluar">Exit</string>
+    <string name="halo">Welcome</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_petugas_map">Map</string>
+    <string name="sapa">To</string>
+
+    <string name="artikel">SandMovie</string>
+
+
+    <string name="txt1">Habibie Ainun </string>
+
+    <string name="txt2">Sinopsis\n
+
+        \n
+        \n	Rudy Habibie seorang genius ahli pesawat terbang yang punya mimpi besar: berbakti kepada bangsa Indonesia dengan membuat pesawat terbang untuk menyatukan Indonesia.
+        \n	Sedangkan Ainun adalah seorang dokter muda cerdas yang dengan jalur karier terbuka lebar untuknya.
+        \n	Pada tahun 1962, dua kawan SMP ini bertemu lagi di Bandung.
+        \n	Habibie jatuh cinta seketika pada Ainun yang baginya semanis gula.
+        \n	Tapi Ainun, dia tak hanya jatuh cinta, dia juga mendukung visi dan mimpi Habibie.
+        \n	Mereka menikah dan terbang ke Jerman.
+        \n Punya mimpi tak akan pernah mudah. Habibie dan Ainun tahu itu.
+        \n Cinta mereka terbangun dalam perjalanan mewujudkan mimpi.
+        \n Dinginnya salju Jerman, pengorbanan, rasa sakit, kesendirian serta godaan harta dan kuasa saat mereka kembali ke Indonesia mengiringi perjalanan dua hidup menjadi satu.
+        \n Bagi Habibie, Ainun adalah segalanya. Ainun adalah mata untuk melihat hidupnya.
+        \n Bagi Ainun, Habibie adalah segalanya, pengisi kasih dalam hidupnya. Namun setiap kisah mempunyai akhir, setiap mimpi mempunyai batas
+\n
+        \n
+    </string>
+
+    <string name="txt3">Suzzana</string>
+    <string name="txt4"> Sinopsis \n
+
+        \n          Tidak ada yang istimewa dari hubungan rumah tanggal Suzzanna (Luna Maya) dan Satria (Herjunot Ali). Sudah lama menikah, namun keduanya belum juga dikarunia momongan. Nmaun, ada yang membuat suasana keluarga ini sangat positif. Mereka sangat sabar , memiliki pikiran yang postif dalam menunggu kehadiran si buah hati.
+
+        \n           Selain itu Satria uga dikenal sangat taat dengan agamanya. Ia rajin beribadah serta membimbing istrinya untuk memenuhi kebutuhan rohaninya. Harmoni keluarga Suzanna dan Satria terusik ketika empat karyawan merencanakan hal jahat pada keluarga Satria.Mereka adalah Jonal, Umar, Dudun, dan Gino. Empat orang ini kemudian berencana melakukan hal jahat kepada Satria. Mereka berempat ingin menghancurkan hidup Satria yang sedang bahagia bersama istrinya.
+
+        \n           Niat empat orang yang akan merampok rumah Satria dan Suzzanna mendadak berganti pada hal yang leibh besar. Mereka terpaksa menghabisi nyawa Suzanna. Tewas seketika, Suzzanna ternyata menyimpan pertanyaan-pertanyaan yang belum terjawab, bahkan oleh suaminya sendiri.
+
+        \n           Apalagi ada mitos-mitos dimana seorang wanita hamil yang dibunuh sebenarnya menanggung dua kehidupan yang bisa memaksa manusia tersebut harus kembali ke kehidupan manusia. Apa yang sebenarnya disembunyikan oleh Suzzanna? Kenapa ia begitu tidak nyaman dengan ayat-ayat suci Al Quran?
+
+        \n           Benarkah Suzzanna sebenarnya sedang mengandung bayi kecil yang didamba-dambakannya bersama Satria selama ini? Benarkah seseorang yang sudha mati bisa hidup kembali hanya untuk menuntaskan dendam yang pernah terjadi? Semuanya akan kamu temukan di film Suzanna: Bernapas Dalam Kubur
+
+        \n
+ </string>
+
+    <string name="txt5">Rumah Dara</string>
+    <string name="txt6">   Sinopsis \n
+        \n
+        \n	Film Rumah Dara berkisah mengenai sekelompok pemuda-pemudi yang terjebak di rumah milik seorang pembunuh misterius yang bernama "Dara". Film ini menjadi reuni antara aktris Julie Estelle dan Imelda Therinne setelah kolaborasi mereka dalam Kuntilanak 3.
+        \n	Sebelum ditayangkan di Indonesia, karakter Dara telah lebih dahulu dipopulerkan lewat segmen film pendek "Dara" dalam film horor antologi "Takut: Faces of Fear" yang juga disutradarai Mo Brothers dan dirilis pada tahun 2008 di festival-festival film di seluruh dunia. Segmen film pendek Dara mendapat begitu banyak tanggapan positif sehingga akhirnya Rumah Dara mendapat harapan besar dari para penggemar film Dara. Pada tahun 2008-2009, Rumah Dara juga telah dilayarkan lebih dahulu di berbagai festival film internasional dan banyak meraih penghargaan. Pada akhir 2009, film ini ditayangkan di Singapura terlebih dahulu dan mendapatkan rating M18 (untuk adegan sadis dan kekerasan).Rumah Dara lalu dirilis secara serempak di seluruh Indonesia pada tanggal 21 Januari 2010. Distribusi film ini ke Amerika Utara dan Eropa telah dibeli oleh Overlook Entertainment.
+        \n	Dalam twitter resmi Rumah dara, diumumkan bahwa film ini dicekal dan dilarang untuk tayang di Malaysia karena tema yang dianggap bertentangan dengan hukum sensor film Malaysia. Film ini menjadi film Indonesia pertama yang dicekal dan dilarang untuk tayang di Malaysia.
+        \n
+</string>
+
+    <string name="txt7">Gundala</string>
+    <string name="txt8">Sinopsis\n
+ \n
+        \n	Gundala menceritakan tentang pria bernama Sancaka yang hidup di jalanan sejak orang tuanya meninggalkannya. Pengalaman pahit itu lantas membuat Sancaka jadi sosok yang sangat selfish dan cuma peduli pada dirinya sendiri.
+        \n	Pada satu masa, Sancaka terobsesi untuk membuat serum penangkal petir. Namun karena terlalu tenggelam dalam obsesinya, Sancaka pun lupa dengan orang-orang sekitar dan dirinya diputus oleh sang kekasih.
+        \n	Dalam kesedihan, Sancaka berlari di bawah hujan deras. Ia lantas tersambar petir dan hampir meninggal karenanya. Namun rupanya Raja Petir bernama Kronz punya rencana lain untuk Sancaka. Beliau lantas memutuskan untuk menyelamatkan Sancaka, plus memberinya kekuatan untuk mengendalikan petir.
+        \n
+    </string>
+
+    <string name="txt9">Koala Kumal</string>
+    <string name="txt10">Sinopsis  \n
+ \n
+        \n	Film Koala Kumal mengisahkan kehidupan Dika, pria yang batal menikah dengan kekasihnya, Andrea.
+        \n	Hal ini lantaran Andrea rupanya telah memiliki pria lain yakni James.
+        \n	Dika pun merasa sakit hati, dan akhirnya ia sulit menulis bagian buku terakhirnya.
+        \n  Suatu ketika Dika bertemu dengan Trisna, wanita menarik dan unik, membuat Dika lari dari perjodohan kacau yang dibuat ibunya.
+        \n  Trisna mulai membuka kembali kehidupan Dika yang bahagia
+        \n  Ia merubah pandangan Dika akan cinta.Dika pergi bersama Trisna dan hubungan mereka semakin dekat.Trisna juga menyelesaikan bagian akhir dari bukunya,Akhirnya Ia tahu alasan mengapa Dika masih saja patah hati dan Trisna mencoba untuk membuat Dika kembali ke kehidupan normalnya.
+        \n
+    </string>
+
+    <string name="txt11">The Doll</string>
+    <string name="txt12">Sinopsis \n
+ \n
+        \n	Anya dan Daniel pindah ke sebuah rumah di Bandung dan siap menjalani kehidupan baru mereka.
+        \n	Tanpa sengaja, Daniel membawa pulang sebuah boneka dari lokasi proyek tempat ia bekerja di Jalan Siliwangi.
+        \n	Boneka tersebut ada di atas pohon yang kemudian ditebang untuk keperluan proyek real estate-nya.
+        \n  Anya, pembuat boneka, dengan senang hati meletakkan boneka itu di rumah mereka.Tapi Niken, tetangganya kaget ketika melihat boneka itu.
+        \n  Boneka itu bernama Ghawiah yang artinya jahat.Dulu boneka itu adalah milik seorang anak kecil bernama Uci yang meninggal ketika ia dan seluruh keluarganya dibunuh secara keji dalam perampokan.
+        \n  Hal-hal aneh mulai terjadi seperti boneka yang pindah tempat sendiri, bel pintu yang bunyi tanpa adanya orang, dan suara anak kecil pada malam hari.
+
+    </string>
+    <string name="title_activity_customer_maps">Map</string>
+
+</resources>

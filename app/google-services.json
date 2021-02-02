@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "286298987043",
+    "firebase_url": "https://berandaapk.firebaseio.com",
+    "project_id": "berandaapk",
+    "storage_bucket": "berandaapk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286298987043:android:586613c1a8d45f00402f96",
+        "android_client_info": {
+          "package_name": "com.example.berandaapk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286298987043-2p3a9pksv75f3bjf1eqsb304u4pil71l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.berandaapk",
+            "certificate_hash": "815573b08730ea8e4eee1816db671ed2eae9ec4b"
+          }
+        },
+        {
+          "client_id": "286298987043-4p3f72qk9fregj40k5c0mdd6hga8u7tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1tIuDdM3V6mJ1w_Kad2-yEgtNH79GqFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286298987043-4p3f72qk9fregj40k5c0mdd6hga8u7tp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

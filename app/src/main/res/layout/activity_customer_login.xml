@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgbg"
+    tools:context=".CustomerLogin">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            app:srcCompat="@drawable/logopix" />
+
+        <TextView
+            android:id="@+id/petugas_statuslogin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:fontFamily="@font/anton"
+            android:gravity="center|center_horizontal"
+            android:text="Login"
+            android:textColor="#000000"
+            android:textSize="40sp" />
+
+        <EditText
+            android:id="@+id/emailCs"
+            android:layout_width="380dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="10dp"
+            android:autofillHints="Email"
+            android:ems="10"
+            android:hint="Email"
+            android:inputType="textEmailAddress"
+            android:textColorHint="#505050" />
+
+        <EditText
+            android:id="@+id/pwCs"
+            android:layout_width="380dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="40dp"
+            android:autofillHints="Password"
+            android:ems="10"
+            android:hint="Password"
+            android:inputType="textPassword"
+            android:textColorHint="#505050" />
+
+        <Button
+            android:id="@+id/cs_btnlogin"
+            android:layout_width="216dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@drawable/custombutton2"
+            android:text="Login"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/register_cs_link"
+            android:layout_width="257dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/acme"
+            android:gravity="center"
+            android:text="Don't have an account ? Register Now"
+            android:textColor="@color/design_default_color_on_secondary"
+            android:textSize="18sp" />
+
+    </LinearLayout>
+
+</RelativeLayout>

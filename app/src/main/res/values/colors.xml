@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFC107</color>
+    <color name="colorPrimaryDark">#FFA000</color>
+    <color name="colorBackground">#FCFCFC</color>
+    <color name="colorLightGray">#EDEDED</color>
+    <color name="colorDeepPurple">#7C4DFF</color>
+    <color name="colorYellow">#FFB300</color>
+    <color name="colorGreen">#00BFA5</color>
+    <color name="colorPinkAccent">#FF4081</color>
+    <color name="colorkuning">#CC9900</color>
+    <color name="colorGelap">#333333</color>
+    <color name="colorungu">#E5BEF8</color>
+    <color name="colorijo">#BEF8CB</color>
+
+
+</resources>
